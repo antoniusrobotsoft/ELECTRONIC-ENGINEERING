@@ -1,13 +1,15 @@
 # ELECTRONIC-ENGINEERING
 Electronic Engineering Stuffs and Products
 
+
+_____________________________________________________
+
 Robotsoft - Better Technology for a Better Life
+<br>
 www.robotsoft.co.id 
 
-@robotsoftid
-
-Connect !
-
+<b>Connect Us !</b>
+<br>
 https://twitter.com/robotsoftid
 <br>
 https://www.youtube.com/robotsoft
