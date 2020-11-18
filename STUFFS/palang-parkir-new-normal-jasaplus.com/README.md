@@ -2,10 +2,10 @@
 <br>
 Web : www.jasaplus.com
 <br>
-<img src="https://raw.githubusercontent.com/antoniusrobotsoft/ELECTRONIC-ENGINEERING/main/STUFFS/palang-parkir-new-normal-jasaplus.com/cara-kerja-palang-parkir-new-normal-jasaplus.com1.jpg">
+<img src="https://raw.githubusercontent.com/antoniusrobotsoft/ELECTRONIC-ENGINEERING/main/STUFFS/palang-parkir-new-normal-jasaplus.com/new-normal-parking-jasaplus1.jpg">
 <br>
 <br>
-<img src="https://raw.githubusercontent.com/antoniusrobotsoft/ELECTRONIC-ENGINEERING/main/STUFFS/palang-parkir-new-normal-jasaplus.com/cara-kerja-palang-parkir-new-normal-jasaplus.com2.jpg">
+<img src="https://raw.githubusercontent.com/antoniusrobotsoft/ELECTRONIC-ENGINEERING/main/STUFFS/palang-parkir-new-normal-jasaplus.com/new-normal-parking-jasaplus2.jpg">
 <br><br>
 <hr>
 
