@@ -5,7 +5,7 @@ Web : www.jasaplus.com
 <img src="https://raw.githubusercontent.com/antoniusrobotsoft/ELECTRONIC-ENGINEERING/main/STUFFS/palang-parkir-new-normal-jasaplus.com/new-normal-parking-jasaplus1.jpg">
 <br>
 <br>
-<img src="https://raw.githubusercontent.com/antoniusrobotsoft/ELECTRONIC-ENGINEERING/main/STUFFS/palang-parkir-new-normal-jasaplus.com/new-normal-parking-jasaplus2.jpg">
+<img src="https://raw.githubusercontent.com/antoniusrobotsoft/ELECTRONIC-ENGINEERING/main/STUFFS/https://raw.githubusercontent.com/antoniusrobotsoft/ELECTRONIC-ENGINEERING/main/STUFFS/palang-parkir-new-normal-jasaplus.com/new-normal-parking-jasaplus-out.jpg">
 <br><br>
 <hr>
 
